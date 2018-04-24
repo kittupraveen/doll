@@ -1,2 +1,2 @@
 # doll
-learning perpose
+learning 
